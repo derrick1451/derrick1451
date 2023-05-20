@@ -9,6 +9,7 @@
 
 <img src="https://giphy.com/embed/3o85xEynp8JtHa05sA">
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+ ```javascript
   class AboutMe{
     construct(pronouns){
         this.😄 Pronouns: ['He','Him'],
@@ -18,6 +19,7 @@
     }
 
   }
+  ```
   ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 <!--START_SECTION:waka-->
