@@ -3,9 +3,9 @@
 <h2>  I'm Okongo Derrick! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
-
-### <img src="https://giphy.com/gifs/redbull-3o85xEynp8JtHa05sA">
-
+```html
+<iframe src="https://giphy.com/embed/3o85xEynp8JtHa05sA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/redbull-3o85xEynp8JtHa05sA">via GIPHY</a></p>
+```
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
  
  ```javascript 
